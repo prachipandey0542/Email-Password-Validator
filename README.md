@@ -1,7 +1,5 @@
-# Email-Password-Validator
+# Email & Password Validator Small Project
 Regex-based email and password validation using HTML, CSS, and JavaScript.
-
-# Email & Password Validator
 A simple webpage that validates user email and password using Regex patterns.  
 It shows whether the entered email and password are correct or incorrect.
 
