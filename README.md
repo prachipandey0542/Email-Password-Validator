@@ -17,7 +17,7 @@ It shows whether the entered email and password are correct or incorrect.
 1. Clone or download this repository.
 2. Open the `index.html` file in your browser.
 3. Enter your email and password.
-4. Instantly see if your input is valid.
+4. Instantly see if your input is valid or not.
 
 ## Technologies Used
 - HTML
